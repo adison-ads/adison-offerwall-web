@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "adison-offerwall-common",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adison-ads/adison-offerwall-common",
+      "state" : {
+        "revision" : "48b6bf2849cfe211c9237d120965d8bd1b4ebc75",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
